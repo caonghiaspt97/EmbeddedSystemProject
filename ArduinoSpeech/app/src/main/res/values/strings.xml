@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArSpeech</string>
+    <string name="press_and_hold_to_record">Press and hold to record</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="bluetooth_must_be_enable">(Bluetooth must be enable)</string>
+    <string name="paired_devices">Paired devices</string>
+    <string name="available_devices">Available devices</string>
+</resources>
